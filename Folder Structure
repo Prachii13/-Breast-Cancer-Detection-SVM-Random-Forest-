@@ -1,0 +1,9 @@
+breast_cancer_detector/
+├── data/breast_cancer.csv            # Dataset (from sklearn or Kaggle)
+├── train_model.py                    # Model training + saving
+├── predict.py                        # CLI prediction
+├── app.py                            # Streamlit app
+├── model.pkl                         # Saved model
+├── requirements.txt
+├── README.md
+└── .gitignore
